@@ -1,11 +1,11 @@
-
+import imgMeme from './assets/troll-face.png'
 
 export default function Header () {
 
     return (
         <header className="header">
             <img
-                src="./troll-face.png"
+                src={imgMeme}
                 className="header--image"
             />
 
