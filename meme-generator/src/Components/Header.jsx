@@ -1,4 +1,4 @@
-import imgMeme from './assets/troll-face.png'
+import imgMeme from '../assets/troll-face.png'
 
 export default function Header () {
 
