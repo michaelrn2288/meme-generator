@@ -14,4 +14,4 @@ Many thanks to Bob and Scrimba! It was a great course!
 
 ---
 
-The project fetch data from an API to generate a meme. You an put a text on the top and on the bottom of the meme.
+The project fetch data from an API to generate a meme. You can put a text on the top and on the bottom of the meme.
